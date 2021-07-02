@@ -22,7 +22,7 @@ public class Programa {
 
         System.out.println("Diagonal");
         for (int i=0; i<n; i++){
-            System.out.print(mat[i][i] + " ");
+            System.out.print(mat[i][i] + "----");
 
         }
         sc.close();
